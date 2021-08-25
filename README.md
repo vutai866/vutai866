@@ -1,5 +1,5 @@
 # Hi there, I'm Tai Vu 👋
-### Metropolitan State University of St.Paul
+### Metropolitan State University of Saint Paul, Minnesota
 ### Computer Science and Programming
 
 - 🌱 I’m currently learning everything 🤣
