@@ -16,6 +16,8 @@
 <br />
 
 ### Languages and Tools:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" align="left" alt="HTML" width="26px">
+
 
 <br />
 <br />
