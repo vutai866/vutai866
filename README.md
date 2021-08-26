@@ -1,3 +1,5 @@
+<img align="right" alt="coding" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e472qy7si93qn6vrpikpbljmg3afbvff8ywyhm9yw3o&rid=giphy.gif&ct=g" >
+
 # Hi there, I'm Tai Vu 👋
 ### Metropolitan State University of Saint Paul, Minnesota
 ### Computer Science and Programming
@@ -8,12 +10,13 @@
 - ⚡ Fun fact: I love to travel, soccer and swimming
 
 ### Connect with me:
-
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" target="_blank" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" target="_blank" />][github]
 <br />
+
+
 
 ### Languages and Tools:
 
