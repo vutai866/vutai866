@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for an internship in Computer Science
 - 🥅 2022 Goals: Graduation
-- ⚡ Fun fact: I love to travel, soccer and swimming
+- ⚡ Fun fact: I love travelling, soccer and swimming
 
 ### Connect with me:
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" target="_blank" />][facebook]
