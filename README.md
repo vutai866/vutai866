@@ -20,9 +20,9 @@
 
 ### Languages and Tools:
 
+<img align="left" width="40px" src="https://user-images.githubusercontent.com/25591905/130840817-ea6cba97-a7ab-4a12-b505-3e7b09fd6d1e.png" alt="Python" />
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/25591905/130839145-880ebb5d-563e-4fe7-98f0-501ed56af57a.png" alt="HTML5" />
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/25591905/130840602-38bfc077-24ad-48ce-9e73-763daeb738f8.png" alt="CSS3" />
-<img align="left" width="40px" src="https://user-images.githubusercontent.com/25591905/130840817-ea6cba97-a7ab-4a12-b505-3e7b09fd6d1e.png" alt="Python" />
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/25591905/130840962-2398b80b-2369-4019-aa22-a1a49365fa22.png" alt="Java"/>
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/25591905/130841262-950261a6-baf7-4553-8ed8-8f33e29da96e.png" alt="MySQL"/>
 
