@@ -4,7 +4,7 @@
 ### Metropolitan State University of Saint Paul, Minnesota
 ### Computer Science and Programming
 
-- 🌱 I’m currently learning <strong>Full Stack Web Development</strong> 🤣
+- 🌱 I’m currently learning <strong>Machine Learning Engineer</strong>
 - 👯 I’m looking for an internship in Computer Science
 - 🥅 2022 Goals: Graduation
 - ⚡ Fun fact: I love travelling, soccer and swimming
