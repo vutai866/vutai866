@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <strong>Machine Learning Engineer</strong>
 - 👯 I’m looking for an internship in Computer Science
-- 🥅 2022 Goals: Graduation
+- 🥅 2023 Goals: Graduation
 - ⚡ Fun fact: I love travelling, soccer and swimming
 
 ### Connect with me:
